@@ -39,6 +39,7 @@ Vous trouverez ici des **PoC**, expérimentations, et projets **Open-Source**. N
 ![CAD](https://img.shields.io/badge/CAD-62B346?style=for-the-badge&logo=servicenow&logoColor=white)
 ![CIS--ITSM](https://img.shields.io/badge/CIS--ITSM-62B346?style=for-the-badge&logo=servicenow&logoColor=white)
 ![CIS--CSM](https://img.shields.io/badge/CIS--CSM-62B346?style=for-the-badge&logo=servicenow&logoColor=white)
+![CIS--DF--CMDB](https://img.shields.io/badge/CIS--DF--CMDB-62B346?style=for-the-badge&logo=servicenow&logoColor=white)
 ![CTA](https://img.shields.io/badge/CTA-62B346?style=for-the-badge&logo=servicenow&logoColor=white)
 ![AI Certifications](https://img.shields.io/badge/AI_Certifications-62B346?style=for-the-badge&logo=servicenow&logoColor=white)
 
